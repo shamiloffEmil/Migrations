@@ -1,11 +1,6 @@
 import pandas
 import openpyxl
-import numpy
-import plotly
 import plotly.graph_objs as go
-import dash
-from dash import html
-from dash import dcc
 import sqlite3
 from PyQt5.QtWidgets import QWidget, QMessageBox, QApplication,QPushButton ,QFileDialog,QLabel
 import sys
